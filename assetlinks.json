@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.android.mowik",
+    "sha256_cert_fingerprints":
+    ["4E:C2:B5:7A:14:8B:2C:7D:59:6C:BF:C0:D4:9F:77:4F:45:0B:41:45:6E:05:12:02:E3:D4:30:46:5C:24:72:5D"]
+  }
+}]
