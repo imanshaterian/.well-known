@@ -1,4 +1,4 @@
 # guess-game
-this is a test for using github and git features and moving forward in tech univerce
-i hope you like it 
+This is a guess game .The program chooses a number you should try to find it.
+I hope you like it 
 Iman Shaterian
